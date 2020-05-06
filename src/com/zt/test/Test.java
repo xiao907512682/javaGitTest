@@ -5,4 +5,7 @@ package com.zt.test;
  * @create 2020-05-06 18:43
  */
 public class Test {
+    public static void main(String[] args) {
+
+    }
 }
